@@ -1,0 +1,14 @@
+<><><><><><><><> 
+Begin: 16-Oct-2014 10:29:20 
+Matlab version  8.2.0.701 (R2013b) 
+Psychtoolbox version  3.0.11 
+Subjid: s41 Run Number: 5 
+<><><><><><><><> 
+Columns info in data file: 
+1. left indvd 2. # right indvd  
+3. response (left - 1 :: right - 2) 4. RT  
+<><><><><><><><> 
+Columns info in (this) info file: 
+1. Stimulus start time (from trial start) 2. Stimulus off-time(from stimulus start time) 
+3. RT or max response duration, if no response (from stimulus start time) 
+ 

@@ -1,0 +1,21 @@
+<><><><><><><><> 
+Begin: 21-May-2014 17:05:36 
+Matlab version  8.2.0.701 (R2013b) 
+Psychtoolbox version  3.0.11 - Flavor: beta - Corresponds to SVN Revision 4591
+For more info visit:
+https 
+Subjid: s00 Run Number: 1 
+<><><><><><><><> 
+Columns info in data file: 
+1. display side (left 1/right 0) 2. # indvd  3. # gend  
+4. response (masc - 1 :: fem - 7) 5. RT  
+<><><><><><><><> 
+Columns info in (this) info file: 
+1. Stimulus start time (from trial start) 2. Stimulus off-time(from stimulus start time) 
+3. RT or max response duration, if no response (from stimulus start time) 
+ 
+1.001 0.554 0.554 
+0.716 0.012 0.012 
+0.751 0.396 0.396 
+0.717 0.536 0.536 
+0.967 0.073 0.073 
