@@ -2,7 +2,6 @@
 
 function bhv_exp_GC_E1%(subj, run_number)
 
-% This is a brand spanking new comment!
 Priority(2); % set this higher to fix SOME synch issues
 
 %%%input session info (if subj is 0, it is a test run)
